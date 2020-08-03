@@ -1,13 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 2, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Built a calculator app using Tkinter and began the process of learning Tkinter.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** After several months of learning Python fundamentals every day and building a strong foundation 
+I am ready to step up my game by learning new framworks and increasing my knowledge through building daily projects.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
