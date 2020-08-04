@@ -7,22 +7,17 @@
 **Thoughts:** After several months of learning Python fundamentals every day and building a strong foundation 
 I am ready to step up my game by learning new framworks and increasing my knowledge through building daily projects.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Calculator%20v1
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%201
 
 
+### Day 2: August 3, 2020
 
+**Today's Progress**: Tkinter 2048 game from a tutorial by kite.  Image viewer from codemy tutorial
 
+**Thoughts**: I understand the logic of these programs more and more with each day.  Certain bugs I still have trouble with and will need to come back and refactor this code to get the 2048 game working flawlessly, even though I understand what is causing the problems I will return to get it working 100% properly in the future, but for now I would prefer to keep moving  forward rather than focus on small bugs from a tutorial.  Also starting Codewars is helping me fully understand how to write code that would be used in production and how there are multiple ways to achieve the same results by writing different functions.
 
-
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/2048%20game
 
 
 ### Day 1: June 27, Monday
