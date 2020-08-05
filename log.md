@@ -20,12 +20,11 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Link(s) to work**: https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/2048%20game
 
 
-### Day 1: June 27, Monday
+### Day 3: August 4, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed an Image viewer app, completed several harder kata in codewars
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Between learning Norwegian, learning python and a few of it's frameworks, reading textbooks daily, taking courses on Udemy and coursera, using every website and tutorial I can possibly find, I feel like I am off to a great start on my coding journey.  Now that I have the fundamentals down the real journey is beginning and this is the start of the fun.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Image%20Viewer
