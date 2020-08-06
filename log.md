@@ -28,3 +28,376 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 
 **Link(s) to work**
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Image%20Viewer
+
+
+### Day 4: August 5, 2020
+
+**Today's Progress**: A lot of practice using Tkinter building small functions for popups, dialogue, message boxes, new windows.  Continue Udemy tutorial Zero to Mastery and read Python All in One
+
+**Thoughts** Even on slow days I still feel productive making  sure I get a few hours of coding in and fit some of my class and reading time in when I can.
+
+**Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%203
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%204
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%205
+
+
+### Day 5: August 6, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 6: August 7, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 7: August 8, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 8: August 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 9: August 10, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 10: August 11, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 11: August 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 12: August 13, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 13: August 14, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 14: August 15, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 15: August 16, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 16: August 17, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 17: August 18, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 18: August 19, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 19: August 20, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 20: August 21, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 21: August 22, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 22: August 23, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 23: August 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 24: August 25, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 25: August 26, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 26: August 27, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 27: August 28, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 28: August 29, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 29: August 30, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 30: August 31, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 31: September 1, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 32: September 2, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 33: September 3, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 34: September 4, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 35: September 5, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 36: September 6, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 37: September 7, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 38: September 8, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 39: September 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 40: September 10, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 41: September 11, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 42: September 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 43: September 13, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 44: September 14, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
