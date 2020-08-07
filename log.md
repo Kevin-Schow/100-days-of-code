@@ -44,9 +44,9 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 
 ### Day 5: August 6, 2020
 
-**Today's Progress**: 
+**Today's Progress**: #100DaysOfCode Day 5: worked a lot on #Tkinter address book database App, GUI practice, finished other #python tutorials to broaden Tkinter knowledge, #codewars, #duolingo #Norwegian, #Udemy, #codemy @AndreiNeagoie @AlSweigart thank you.
 
-**Thoughts** 
+**Thoughts** Getting a lot better with Tkinter and Python.  Really understanding how it all comes together and I can see a path forward building more intricate apps.  A Lot of big projects incoming over the next weeks.
 
 **Link(s) to work**
 
