@@ -64,11 +64,12 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Address%20Book%2
 
 ### Day 7: August 8, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Weather Air Quality app, Matplotlib Chart, MySQL
 
-**Thoughts** 
+**Thoughts** So many new toys to play with, programming opens up a whole ne world of possibilities.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Air%20Quality
 
 
 ### Day 8: August 9, 2020
