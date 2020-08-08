@@ -49,15 +49,17 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Thoughts** Getting a lot better with Tkinter and Python.  Really understanding how it all comes together and I can see a path forward building more intricate apps.  A Lot of big projects incoming over the next weeks.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Address%20Book%20v1
 
 
 ### Day 6: August 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Complted Address Book from Udemy Tutorial
 
-**Thoughts** 
+**Thoughts** Feels good to complete apps with tangible gui interface that accomplishes a task.  This will lead to many more big projects.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Address%20Book%20v1
 
 
 ### Day 7: August 8, 2020
