@@ -74,12 +74,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Air%20Quality
 
 ### Day 8: August 9, 2020
 
-**Today's Progress**: ASCII Art App that turns photos into text, Made a valiant attempt at using FoxDot sound synthesizer but got lost and will need to return in the future to properly learn how to use this amazing plugin.  Researched AI Chatbots and how to approach manking one soon.
+**Today's Progress**: ASCII Art App that turns photos into text, Made a valiant attempt at using FoxDot sound synthesizer but got lost and will need to return in the future to properly learn how to use this amazing plugin.  Researched AI Chatbots and how to approach manking one soon.  Returned later in the day unsatisfied and decided to build my own synthesizer.  Also built a keylogger while trying to understand keyboard inputs for synth.
 
-**Thoughts** I was amazed by the speech and audio synthesis in FoxDot and spent a few hours trying to get it up and running but ran into several issues, mainly my lack of knowledge.  I will try again in a month or two and see if I can get this working.  
+**Thoughts** I was amazed by the speech and audio synthesis in FoxDot and spent a few hours trying to get it up and running but ran into several issues, mainly my lack of knowledge. It felt good coming back after a workout and deciding  to keep going despite my lack of knowledge, instead of playing with a prebuilt synthesizer I instead began building my own by piecing together tutorials and learning a lot in the process.
 
 **Link(s) to work**
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/ASCII%20Image%20Converter
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Keylogger
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Synthesizer%20v1
 
 
 ### Day 9: August 10, 2020
