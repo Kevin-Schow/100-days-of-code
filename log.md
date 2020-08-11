@@ -86,9 +86,9 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Synthesizer%20v1
 
 ### Day 9: August 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started learning a tool called Banjo's Backpack to mod Banjo Kazooie n64 game files suggested to me by Mark Kurko.  Continued Zero to Mastery Python.
 
-**Thoughts** 
+**Thoughts** Not a lot of coding today but set myself up for a major project involving 3D modeling, texturing, game editing, and eventually programming in assembly for n64.
 
 **Link(s) to work**
 
