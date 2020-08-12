@@ -95,11 +95,12 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Synthesizer%20v1
 
 ### Day 10: August 11, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Customer Relations Manager Database v1, Zero to Mastery Python
 
-**Thoughts** 
+**Thoughts** Slightly dry stuff today, learning more SQL which will help in many future projects.  Working more on Banjo Kazooie hack tonight after some Udemy.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Database%20v1
 
 
 ### Day 11: August 12, 2020
