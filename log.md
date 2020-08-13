@@ -105,11 +105,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Datab
 
 ### Day 11: August 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked more on Customer Relations Database including writing .csv files and displaying data properly.  Reading Python for Dummies.  Finally got a working pipeline set up for Banjo's Backpack using Maya so I can import custom 3D models into the game.
 
-**Thoughts** 
+**Thoughts** Making great progress on my programming studies.  I am now at a point where I am comfortable spending some time on my two big side projects Hype and a Banjo Kazooie rom hack.  Life is currently code, art, repeat.
+
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Database%20v2
 
 
 ### Day 12: August 13, 2020
