@@ -116,11 +116,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Datab
 
 ### Day 12: August 13, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Customer Relations Manager Database v3, Random Winner Picker, Pokemon Battle, Zero to Mastery Python, 3D modeling/texturing
 
-**Thoughts** 
+**Thoughts** Productive day so far, moving on to some 3D modeling tonight and more reading after.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Pokemon%20Battle
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Database%20v3
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Winner%20Picker
 
 
 ### Day 13: August 14, 2020
