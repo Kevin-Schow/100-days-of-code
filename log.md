@@ -126,11 +126,11 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Customer%20Datab
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Winner%20Picker
 
 
-### Day 13: August 14, 2020
+### Day 13: August 15, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Executable files, Tkinter practice, Zero to Mastery Python
 
-**Thoughts** 
+**Thoughts** Practiced what I have learned recently and learned how to make exe files
 
 **Link(s) to work**
 
