@@ -135,14 +135,16 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Winner%20Picker
 **Link(s) to work**
 
 
-### Day 14: August 15, 2020
+### Day 14: August 16, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter practice exercises, bind keyboard events, classes, overwrite labels, Zero to Mastery Python
 
-**Thoughts** 
+**Thoughts** It's pretty cool seeing how a new skill will connect with a previously learned skill and understanding how they will work together to create something new.  Beginning to understand how it all comes together and I plan on building apps using my current knowledge over next few days before moving forward with more tutorials to engrain that gained knowledge.  
 
 **Link(s) to work**
-
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2010
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2011
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2012
 
 ### Day 15: August 16, 2020
 
