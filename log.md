@@ -146,9 +146,9 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2011
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2012
 
-### Day 15: August 16, 2020
+### Day 15: August 17, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Learning Git and Github, Tkinter dropdown menus and boxes, Reading Head First Python
 
 **Thoughts** 
 
