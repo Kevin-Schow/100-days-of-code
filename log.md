@@ -153,13 +153,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2015
 
 
-### Day 16: August 17, 2020
+### Day 16: August 18, 2020
 
-**Today's Progress**: 
+**Today's Progress**:  Tkinter menus and practice, Codewars 7 kyu problems, Reading Head First Python
 
-**Thoughts** 
+**Thoughts** Getting better at solving codewars problems and understanding tkinter very well.
 
 **Link(s) to work**
 
