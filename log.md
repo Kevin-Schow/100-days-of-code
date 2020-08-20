@@ -163,15 +163,19 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Thoughts** Getting better at solving codewars problems and understanding tkinter very well.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2016
 
 
-### Day 17: August 18, 2020
+### Day 17: August 19, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter geography flashcard app, unicode, frames, color picker, paned windows, Zero to Mastery Python
 
-**Thoughts** 
+**Thoughts** Got a ton of work done today!  Started building a geography flashcard app which I plan on extending to have multiple categories
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2017
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2018
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2019
 
 
 ### Day 18: August 19, 2020
