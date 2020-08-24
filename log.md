@@ -188,13 +188,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v1
 
 
-### Day 19: August 20, 2020
+### Day 19: August 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: State Flashcards v2, Reading Python Head First, Python for Dummies, Zero to Mastery
 
-**Thoughts** 
+**Thoughts** Continue working on flashcards app, extended it to work for state capitals
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v2
 
 
 ### Day 20: August 21, 2020
