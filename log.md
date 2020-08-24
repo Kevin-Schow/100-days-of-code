@@ -178,13 +178,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2019
 
 
-### Day 18: August 19, 2020
+### Day 18: August 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: State Flashcards version 1, Reading Python all in one, Zero to Mastery, Reading Github repos
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v1
 
 
 ### Day 19: August 20, 2020
