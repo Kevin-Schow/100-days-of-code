@@ -198,13 +198,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v1
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v2
 
 
-### Day 20: August 21, 2020
+### Day 20: August 26, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Math Flashcards v3, Zero to Mastery Python
 
-**Thoughts** 
+**Thoughts** Added math functions to flashcards app, I want to build out this app to have relevant functions for my personal needs as an exercise
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v3
 
 
 ### Day 21: August 22, 2020
