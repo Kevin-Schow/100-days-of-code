@@ -208,13 +208,16 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v2
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Flashcards%20v3
 
 
-### Day 21: August 22, 2020
+### Day 21: August 27, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter tabs, config, scrollbar, list boxes, Zero to Mastery
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2022
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2021
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2020
 
 
 ### Day 22: August 23, 2020
