@@ -220,13 +220,15 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2020
 
 
-### Day 22: August 23, 2020
+### Day 22: August 29, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter Image buttons, Images, Error handling, Reading Python All in One, Zero to Mastery
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2023
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2024
 
 
 ### Day 23: August 24, 2020
