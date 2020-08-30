@@ -233,11 +233,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 
 ### Day 23: August 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Codewars 6 Kyu challenges, Zero to Mastery Python, Python All In One
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Codewars/blob/master/035_Growth_Of_A_Population
+https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Root
 
 
 ### Day 24: August 25, 2020
