@@ -242,11 +242,11 @@ https://github.com/Kevin-Schow/Codewars/blob/master/035_Growth_Of_A_Population
 https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Root
 
 
-### Day 24: August 25, 2020
+### Day 24: September 22, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Udemy Zero to Mastery Python, Reading Head First Python, Tkinter Practice, Codewars 6 Kyu
 
-**Thoughts** 
+**Thoughts** Took a break to refresh my mind and now returning to programming at full speed.
 
 **Link(s) to work**
 
