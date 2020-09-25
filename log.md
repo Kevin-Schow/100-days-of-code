@@ -253,7 +253,7 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 
 ### Day 25: August 26, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Raytracing Vectors,  Udemy Zero to Mastery Python, Reading Head First Python, Tkinter Practice
 
 **Thoughts** 
 
