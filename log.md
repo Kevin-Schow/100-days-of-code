@@ -251,7 +251,7 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 **Link(s) to work**
 
 
-### Day 25: August 26, 2020
+### Day 25: September 25, 2020
 
 **Today's Progress**: Raytracing Vectors,  Udemy Zero to Mastery Python, Reading Head First Python, Tkinter Practice
 
@@ -260,11 +260,11 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 **Link(s) to work**
 
 
-### Day 26: August 27, 2020
+### Day 26: September 30, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Ray Tracing Render added light, Udemey Zero to Mastery, Image converter
 
-**Thoughts** 
+**Thoughts** Learned a lot of math relating to vectors, lighting, rendering.  A lot of information building upon my previous knowledge of computer graphics.
 
 **Link(s) to work**
 
