@@ -266,16 +266,16 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 
 **Thoughts** Learned a lot of math relating to vectors, lighting, rendering.  A lot of information building upon my previous knowledge of computer graphics.
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Raytracer
 
 
-### Day 27: August 28, 2020
+### Day 27: October 5, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished up working on python raytracer render engine.
 
-**Thoughts** 
+**Thoughts**  Had trouble exporting image but since this was just a learning exercise I will continue graphics using proper tools in the future (C++ or similar language better suited for this)
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Raytracer
 
 
 ### Day 28: August 29, 2020
