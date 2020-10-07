@@ -280,7 +280,7 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 
 ### Day 28: August 29, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Automatic Emails with Python, PDF combiner, PDF watermarks
 
 **Thoughts** 
 
