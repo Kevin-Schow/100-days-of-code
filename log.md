@@ -289,11 +289,11 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 
 ### Day 29: August 30, 2020
 
-**Today's Progress**: 
+**Today's Progress**:  Udemy Zero to Mastery, Password Checker v2
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Password%20Checker%20v2
 
 
 ### Day 30: August 31, 2020
