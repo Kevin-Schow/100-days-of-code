@@ -315,13 +315,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Link(s) to work**
 
 
-### Day 32: September 2, 2020
+### Day 32: October 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Hackernews webscraper, web developement
 
-**Thoughts** 
+**Thoughts** I want to expand upon webscraping in future projects
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Hackernews%20Webscraper
 
 
 ### Day 33: September 3, 2020
