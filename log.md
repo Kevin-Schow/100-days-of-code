@@ -278,7 +278,7 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 **Link(s) to work** https://github.com/Kevin-Schow/Python-Raytracer
 
 
-### Day 28: August 29, 2020
+### Day 28: October 6, 2020
 
 **Today's Progress**: Automatic Emails with Python, PDF combiner, PDF watermarks
 
@@ -287,7 +287,7 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 **Link(s) to work**
 
 
-### Day 29: August 30, 2020
+### Day 29: October 7, 2020
 
 **Today's Progress**:  Udemy Zero to Mastery, Password Checker v2
 
@@ -296,18 +296,19 @@ https://github.com/Kevin-Schow/Codewars/blob/master/36_Sum_Of_Digits_Digital_Roo
 **Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Password%20Checker%20v2
 
 
-### Day 30: August 31, 2020
+### Day 30: October 8, 2020
 
-**Today's Progress**: 
+**Today's Progress**:  Udemy Zero to Mastery, Tkinter moving images with mouse and keyboard
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2028
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2027
 
 
-### Day 31: September 1, 2020
+### Day 31: October 9, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter Calendar, external programs
 
 **Thoughts** 
 
