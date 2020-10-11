@@ -324,13 +324,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Hackernews%20Webscraper
 
 
-### Day 33: September 3, 2020
+### Day 33: October 11, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Udemy Zero to Mastery, Web scraping, Opening external programs
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2030
 
 
 ### Day 34: September 4, 2020
