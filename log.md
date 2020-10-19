@@ -335,11 +335,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 
 ### Day 34: September 4, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter time, progress bars, text to speech, Udemy Zero to Mastery
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2032
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2033
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2034
 
 
 ### Day 35: September 5, 2020
