@@ -333,7 +333,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 **Link(s) to work** https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2030
 
 
-### Day 34: September 4, 2020
+### Day 34: October 19, 2020
 
 **Today's Progress**: Tkinter time, progress bars, text to speech, Udemy Zero to Mastery
 
@@ -344,13 +344,16 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2034
 
 
-### Day 35: September 5, 2020
+### Day 35: October 20, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Tkinter word scramble game, height/width, mouse hover over, sound/music
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2036
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practice%2037
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Word%20Shuffle%20%20Game
 
 
 ### Day 36: September 6, 2020
