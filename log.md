@@ -356,13 +356,15 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tkinter%20Practi
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Word%20Shuffle%20%20Game
 
 
-### Day 36: September 6, 2020
+### Day 36: October 21, 2020
 
-**Today's Progress**: 
+**Today's Progress**: MP3 Player, Play, Pause, Stop, Add Songs
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** 
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v01
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v02
 
 
 ### Day 37: September 7, 2020
