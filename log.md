@@ -367,13 +367,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v02
 
 
-### Day 37: September 7, 2020
+### Day 37: October 22, 2020
 
-**Today's Progress**: 
+**Today's Progress**: MP3 Player, Time, Time Slider
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v04
 
 
 ### Day 38: September 8, 2020
