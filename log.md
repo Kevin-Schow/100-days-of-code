@@ -377,22 +377,27 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v04
 
 
-### Day 38: September 8, 2020
+### Day 38: November 5, 2020
 
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**
-
-
-### Day 39: September 9, 2020
-
-**Today's Progress**: 
+**Today's Progress**: MP3 Player, Song Position Slider, debugging, Time Slider
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v06
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v05
+
+
+### Day 39: November 6, 2020
+
+**Today's Progress**: MP3 Player, Graphics, Slider fixes, Volume Meter, Audio Visualizer
+
+**Thoughts** 
+
+**Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v09
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v08
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v07
 
 
 ### Day 40: September 10, 2020
