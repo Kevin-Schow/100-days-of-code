@@ -400,13 +400,15 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/MP3%20Player%20v07
 
 
-### Day 40: September 10, 2020
+### Day 40: November 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Threading, Scroll Bar, Spin Boxes
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Scroll%20Bar
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Threading
 
 
 ### Day 41: September 11, 2020
