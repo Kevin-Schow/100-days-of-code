@@ -421,13 +421,17 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Threading
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Boxes
 
 
-### Day 42: September 12, 2020
+### Day 42: November 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Text Editor, Read Write Files, Undo, Redo, Save, Italics, Bold, Scroll, Images
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v01
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v02
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v03
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v04
 
 
 ### Day 43: September 13, 2020
