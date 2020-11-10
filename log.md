@@ -411,13 +411,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Scroll%20Bar
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Threading
 
 
-### Day 41: September 11, 2020
+### Day 41: November 9, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Text Boxes, Tutorials, Career Research
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Boxes
 
 
 ### Day 42: September 12, 2020
