@@ -434,13 +434,15 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v04
 
 
-### Day 43: September 13, 2020
+### Day 43: November 11, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Text Editor, Save, Cut, Copy, Paste
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v08
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v07
 
 
 ### Day 44: September 14, 2020
