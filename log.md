@@ -445,11 +445,14 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v07
 
 
-### Day 44: September 14, 2020
+### Day 44: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Text Editor, Color Text, Undo, Redo, Save, Italics, Bold, Scroll
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v09
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v10
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v11
 
