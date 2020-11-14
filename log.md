@@ -456,3 +456,210 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v10
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v11
 
+
+### Day 45: November 13, 2020
+
+**Today's Progress**: Career Research, Textbooks, Codemy, Finished Python All In One, Paint Program
+
+**Thoughts** 
+
+**Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Paint%20v01
+
+
+### Day 46: November 14, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 47: November 15, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 48: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 49: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 50: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 51: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 52: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 53: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 54: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 55: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 56: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 57: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 58: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 59: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 60: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 61: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 62: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 63: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 64: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 65: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 66: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 67: November 12, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
