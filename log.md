@@ -480,11 +480,11 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v13
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v14
 
-### Day 47: November 15, 2020
+### Day 47: November 16, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Django Built First Website, Virtual Environment, Web Server, Git, Sublime Text
 
-**Thoughts** 
+**Thoughts** Got SOOO much done over the last several days.  Really feels like I am entering the next stage of my learning as I go from simply understanding  programming to being able to build things using more advanced frameworks and piecing together my accumulated knowledge.
 
 **Link(s) to work**
 
