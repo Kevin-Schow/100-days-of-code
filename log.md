@@ -467,14 +467,18 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Paint%20v01
 
 
-### Day 46: November 14, 2020
+### Day 46: November 15, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Text Editor, Save, Print, Select All, Clear, Color, Night Mode, Paint App, Create Executable File, Export PNG
 
 **Thoughts** 
 
 **Link(s) to work**
-
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Paint%20v04
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Paint%20v03
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v12
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v13
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20v14
 
 ### Day 47: November 15, 2020
 
