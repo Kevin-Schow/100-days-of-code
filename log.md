@@ -491,11 +491,13 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 
 ### Day 48: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Django Weather App, Treeview, Tic Tac Toe Game, Pragmatic Programmer, Algorithms For Dummies
 
-**Thoughts** 
+**Thoughts** Building my knowledge and understanding of computer science, fundamentals, and algorithms
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tic%20Tac%20Toe
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v01
 
 
 ### Day 49: November 12, 2020
