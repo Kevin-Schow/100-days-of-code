@@ -502,11 +502,12 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v01
 
 ### Day 49: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Django Weather App, Git/Github Commands, Treeview, Read Pragmatic Programmer, Career Research
 
-**Thoughts** 
+**Thoughts** Many heavy research days this week.  Really wanting to get an understanding of what is needed from me at the jobs I will apply to and how to make myself valuable.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 
 
 ### Day 50: November 12, 2020
