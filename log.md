@@ -512,9 +512,9 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 
 ### Day 50: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Daily Post App, Django Weather App, Pygame, Github, Pragmatic Programmer
 
-**Thoughts** 
+**Thoughts** Started working on a platformer game in Pygame as a fun side project to boost my skills and keep coding after a long day of coding
 
 **Link(s) to work**
 
