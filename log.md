@@ -521,11 +521,12 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 
 ### Day 51: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Pygame Platformer, Chunk Generation, Art, Sound, Character Controller, Django Weather App, Daily Post App
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Pygame
 
 
 ### Day 52: November 12, 2020
