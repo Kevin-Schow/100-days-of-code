@@ -531,11 +531,12 @@ https://github.com/Kevin-Schow/Pygame
 
 ### Day 52: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Pygame Platformer, Chunk Generation, Camera, Classes for Enemies and Game Objects, Character Controller
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Pygame
 
 
 ### Day 53: November 12, 2020
