@@ -489,7 +489,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Text%20Editor%20
 **Link(s) to work**
 
 
-### Day 48: November 12, 2020
+### Day 48: November 17, 2020
 
 **Today's Progress**: Django Weather App, Treeview, Tic Tac Toe Game, Pragmatic Programmer, Algorithms For Dummies
 
@@ -500,7 +500,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Tic%20Tac%20Toe
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v01
 
 
-### Day 49: November 12, 2020
+### Day 49: November 18, 2020
 
 **Today's Progress**: Django Weather App, Git/Github Commands, Treeview, Read Pragmatic Programmer, Career Research
 
@@ -510,7 +510,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v01
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 
 
-### Day 50: November 12, 2020
+### Day 50: November 19, 2020
 
 **Today's Progress**: Daily Post App, Django Weather App, Pygame, Github, Pragmatic Programmer
 
@@ -519,7 +519,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 **Link(s) to work**
 
 
-### Day 51: November 12, 2020
+### Day 51: November 20, 2020
 
 **Today's Progress**: Pygame Platformer, Chunk Generation, Art, Sound, Character Controller, Django Weather App, Daily Post App
 
@@ -529,7 +529,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Treeview%20v03
 https://github.com/Kevin-Schow/Pygame
 
 
-### Day 52: November 12, 2020
+### Day 52: November 21, 2020
 
 **Today's Progress**: Pygame Platformer, Chunk Generation, Camera, Classes for Enemies and Game Objects, Character Controller
 
@@ -539,7 +539,7 @@ https://github.com/Kevin-Schow/Pygame
 https://github.com/Kevin-Schow/Pygame
 
 
-### Day 53: November 12, 2020
+### Day 53: November 22, 2020
 
 **Today's Progress**: Django Weather App, Pygame, Rendering Outlines, Physics
 
@@ -550,13 +550,15 @@ https://github.com/Kevin-Schow/djangoweather
 https://github.com/Kevin-Schow/Pygame
 
 
-### Day 54: November 12, 2020
+### Day 54: November 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Django To Do List App, Pygame Platformer bug fixes, Chess Game
 
-**Thoughts** 
+**Thoughts** It feels amazing to have multiple projects to pick between for each day.
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Chess
+https://github.com/Kevin-Schow/Pygame
 
 
 ### Day 55: November 12, 2020
