@@ -541,11 +541,13 @@ https://github.com/Kevin-Schow/Pygame
 
 ### Day 53: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Django Weather App, Pygame, Rendering Outlines, Physics
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/djangoweather
+https://github.com/Kevin-Schow/Pygame
 
 
 ### Day 54: November 12, 2020
