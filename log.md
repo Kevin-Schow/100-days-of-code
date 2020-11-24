@@ -563,11 +563,12 @@ https://github.com/Kevin-Schow/Pygame
 
 ### Day 55: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Chess Game, Django To Do List App, Read A Programmers guide to Computer Science
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Chess
 
 
 ### Day 56: November 12, 2020
