@@ -582,11 +582,13 @@ https://github.com/Kevin-Schow/Chess
 
 ### Day 57: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Chess Game, Python Interpreter, Tkinter External Programs, Read A Programmers guide to Computer Science
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snippets/Python_Interpreter.py
+https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snippets/External_Programs_Tkinter_A.py
 
 
 ### Day 58: November 12, 2020
