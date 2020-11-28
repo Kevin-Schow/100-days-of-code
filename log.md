@@ -593,11 +593,12 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snip
 
 ### Day 58: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Finished Chess Game, Completed Python Zero to Mastery Udemy Course, Read A Programmers guide to Computer Science
 
-**Thoughts** 
+**Thoughts**
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/Chess
 
 
 ### Day 59: November 12, 2020
