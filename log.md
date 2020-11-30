@@ -580,7 +580,7 @@ https://github.com/Kevin-Schow/Chess
 **Link(s) to work**
 https://github.com/Kevin-Schow/Chess
 
-### Day 57: November 12, 2020
+### Day 57: November 26, 2020
 
 **Today's Progress**: Chess Game, Python Interpreter, Tkinter External Programs, Read A Programmers guide to Computer Science
 
@@ -591,7 +591,7 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snip
 https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snippets/External_Programs_Tkinter_A.py
 
 
-### Day 58: November 12, 2020
+### Day 58: November 28, 2020
 
 **Today's Progress**: Finished Chess Game, Completed Python Zero to Mastery Udemy Course, Read A Programmers guide to Computer Science
 
@@ -601,22 +601,23 @@ https://github.com/Kevin-Schow/Python-Code-Snippets/blob/master/Python-Code-Snip
 https://github.com/Kevin-Schow/Chess
 
 
-### Day 59: November 12, 2020
+### Day 59: November 29, 2020
 
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**
-
-
-### Day 60: November 12, 2020
-
-**Today's Progress**: 
+**Today's Progress**: Built tool automate daily posts to twitter, github, Chess bug fixes, Read documentation Django Kivy, A Programmer's guide to Computer Science
 
 **Thoughts** 
 
 **Link(s) to work**
+
+
+### Day 60: November 30, 2020
+
+**Today's Progress**: Unity, Csharp, Gamedev,  Reading A Programmer's Guide to Computer Science
+
+**Thoughts** 
+
+**Link(s) to work**
+https://github.com/Kevin-Schow/Apocalypse-Online
 
 
 ### Day 61: November 12, 2020
