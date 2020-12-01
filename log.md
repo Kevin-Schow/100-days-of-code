@@ -622,7 +622,7 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 
 ### Day 61: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Csharp, Unity character controller and camera, bug fixes, reading Pragmatic Programmer, viewing github projects, career research, html, css, freecodecamp
 
 **Thoughts** 
 
