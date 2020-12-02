@@ -631,7 +631,8 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 
 ### Day 62: November 12, 2020
 
-**Today's Progress**: 
+**Today's Progress**:  Worked through half of the Responsive Web Design certificate on FreeCodeCamp, HTML, CSS, Javascript, Reading Programmer's guide to Computer Science
+
 
 **Thoughts** 
 
