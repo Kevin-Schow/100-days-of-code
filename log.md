@@ -620,7 +620,7 @@ https://github.com/Kevin-Schow/Chess
 https://github.com/Kevin-Schow/Apocalypse-Online
 
 
-### Day 61: November 12, 2020
+### Day 61: December 1, 2020
 
 **Today's Progress**: Csharp, Unity character controller and camera, bug fixes, reading Pragmatic Programmer, viewing github projects, career research, html, css, freecodecamp
 
@@ -629,7 +629,7 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 **Link(s) to work**
 
 
-### Day 62: November 12, 2020
+### Day 62: December 2, 2020
 
 **Today's Progress**:  Worked through half of the Responsive Web Design certificate on FreeCodeCamp, HTML, CSS, Javascript, Reading Programmer's guide to Computer Science
 
@@ -639,9 +639,9 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 **Link(s) to work**
 
 
-### Day 63: November 12, 2020
+### Day 63: December 3, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Freecodecamp Responsive Web Design, HTML, CSS, Javascript, Reading A Programmer's Guide to Computer Science
 
 **Thoughts** 
 
