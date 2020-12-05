@@ -648,7 +648,25 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 **Link(s) to work**
 
 
-### Day 64: November 12, 2020
+### Day 64: December 4, 2020
+
+**Today's Progress**:  Taught myself #HTML, #CSS, and #Javascript over the last 72 hours, #Codemy #HTML certificate, intense #javascript learning day
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 65: December 5, 2020
+
+**Today's Progress**:  Webdev, HTML, CSS, Javascript, Codemy building a resume website, bootstrap, reading a Programmer's Guide to Computer Science
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 66: December 6, 2020
 
 **Today's Progress**: 
 
@@ -657,25 +675,7 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 **Link(s) to work**
 
 
-### Day 65: November 12, 2020
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**
-
-
-### Day 66: November 12, 2020
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**
-
-
-### Day 67: November 12, 2020
+### Day 67: December 7, 2020
 
 **Today's Progress**: 
 
