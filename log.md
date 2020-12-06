@@ -668,11 +668,12 @@ https://github.com/Kevin-Schow/Apocalypse-Online
 
 ### Day 66: December 6, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Doodle Jump in Javascript #JavaScriptGames Build a Resume Website with HTML Codemy Free Code Camp Javascript Algorithms Datastructures
 
 **Thoughts** 
 
 **Link(s) to work**
+https://github.com/Kevin-Schow/doodle-jump
 
 
 ### Day 67: December 7, 2020
