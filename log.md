@@ -678,8 +678,9 @@ https://github.com/Kevin-Schow/doodle-jump
 
 ### Day 67: December 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Candy Crush Javascript #JavaScriptGames, FreeCodeCamp HTML, CSS, Udemy Build Tetris in JS
+
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Kevin-Schow/candy-crush
