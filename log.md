@@ -684,3 +684,12 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work** https://github.com/Kevin-Schow/candy-crush
+
+### Day 68: December 8, 2020
+
+**Today's Progress**: Javascript Tetris #javascriptgames, reading javascript the good parts, freecodecamp
+
+
+**Thoughts** 
+
+**Link(s) to work** https://github.com/Kevin-Schow/tetris
