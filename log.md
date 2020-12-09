@@ -693,3 +693,23 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work** https://github.com/Kevin-Schow/tetris
+
+
+### Day 69: December 9, 2020
+
+**Today's Progress**: Going through many webdev github repos, Reading Eloquent Javascript and Javascript the good parts, W3schools, CSS diner, flexbox froggy, grid garden
+
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 70: December 10, 2020
+
+**Today's Progress**: 
+
+
+**Thoughts** 
+
+**Link(s) to work** 
