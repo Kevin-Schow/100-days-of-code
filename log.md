@@ -707,7 +707,7 @@ https://github.com/Kevin-Schow/doodle-jump
 
 ### Day 70: December 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: FreeCodeCamp Reading Eloquent Javascript and Javascript the good parts, W3schools, CSS, HTML, #javascriptgames
 
 
 **Thoughts** 
