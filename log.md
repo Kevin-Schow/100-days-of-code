@@ -713,3 +713,13 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work** 
+
+
+### Day 71: December 13, 2020
+
+**Today's Progress**: Javascript functions practice, Reading Head First Javascript, CSS Grid Garden https://cssgridgarden.com/ 
+
+
+**Thoughts** 
+
+**Link(s) to work** 
