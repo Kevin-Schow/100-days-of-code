@@ -723,3 +723,13 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work** 
+
+
+### Day 72: December 14, 2020
+
+**Today's Progress**: Javascript Tetris #Javascriptgames, Udemy, CSS Diner, Reading Head First Javascript
+
+
+**Thoughts** 
+
+**Link(s) to work** 
