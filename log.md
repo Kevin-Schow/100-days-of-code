@@ -734,10 +734,19 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work** 
 
-### Day 73: December22, 2020
+### Day 73: December 22, 2020
 
 **Today's Progress**: Reading Coding with Javascript for Dummies, Eloquent Javascript, Javascript the Good Parts, Head First Javascript
 
 **Thoughts** A ton of reading done this week
 
 **Link(s) to work** 
+
+### Day 74: December 23, 2020
+
+**Today's Progress**: Learning #CSS by making art all day, Reading Head First #Javascript
+
+**Thoughts** 
+
+**Link(s) to work** 
+
