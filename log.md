@@ -750,3 +750,11 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work** 
 
+### Day 75: December 26, 2020
+
+**Today's Progress**:  Using Codepen.io to practice HTML and CSS, Reading Soft Skills Software Dev Life Manual
+
+**Thoughts** 
+
+**Link(s) to work**
+
