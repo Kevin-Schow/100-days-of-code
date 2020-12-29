@@ -766,3 +766,10 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work**
 
+### Day 77: December 29, 2020
+
+**Today's Progress**:  Glassmorphism 3D cards, animations, Reading Soft Skills, CSS and Javascript effects
+
+**Thoughts** 
+
+**Link(s) to work** https://github.com/Kevin-Schow/Code-Library/blob/master/Javascript-Library/glassShipCard.css
