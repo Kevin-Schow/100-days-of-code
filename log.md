@@ -758,3 +758,11 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work**
 
+### Day 76: December 28, 2020
+
+**Today's Progress**:  CSS liquid button effects, Javascript particle effect
+
+**Thoughts** 
+
+**Link(s) to work**
+
