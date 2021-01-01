@@ -773,3 +773,11 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work** https://github.com/Kevin-Schow/Code-Library/blob/master/Javascript-Library/glassShipCard.css
+
+### Day 78: December 31, 2020
+
+**Today's Progress**:  CSS practice making faces, CSS card effects, CSS navbar, Reading Soft Skills
+
+**Thoughts** 
+
+**Link(s) to work* https://github.com/Kevin-Schow/Code-Library/tree/master/Javascript-Library
