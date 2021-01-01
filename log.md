@@ -781,3 +781,11 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work* https://github.com/Kevin-Schow/Code-Library/tree/master/Javascript-Library
+
+### Day 79: January 1, 2021
+
+**Today's Progress**:  Responsive navbar, reading Algorithms for Dummies, Python algorithm practice
+
+**Thoughts** 
+
+**Link(s) to work*
