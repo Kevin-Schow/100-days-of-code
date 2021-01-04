@@ -789,3 +789,11 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** 
 
 **Link(s) to work*
+
+### Day 79: January 3, 2021
+
+**Today's Progress**:  Udemy Complete Front End Development Course, Reading Algorithms for Dummies, FreeCodeCamp Javascript
+
+**Thoughts** 
+
+**Link(s) to work*
