@@ -790,10 +790,18 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
-### Day 79: January 3, 2021
+### Day 80: January 3, 2021
 
 **Today's Progress**:  Udemy Complete Front End Development Course, Reading Algorithms for Dummies, FreeCodeCamp Javascript
 
 **Thoughts** 
+
+**Link(s) to work*
+
+### Day 81: January 7, 2021
+
+**Today's Progress**:  Neon button effect, Clip Path button effect, 3D Ring effect, CSS, CS50 Web Programming Python Javascript
+
+**Thoughts** Working through CS50 Web Dev over previous days
 
 **Link(s) to work*
