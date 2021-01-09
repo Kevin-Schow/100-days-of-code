@@ -805,3 +805,11 @@ https://github.com/Kevin-Schow/doodle-jump
 **Thoughts** Working through CS50 Web Dev over previous days
 
 **Link(s) to work*
+
+### Day 81: January 8, 2021
+
+**Today's Progress**:  Website landing page, progress bars, html, css, javascript, Reading Algorithms, CS50 Webdev
+
+**Thoughts** 
+
+**Link(s) to work*
