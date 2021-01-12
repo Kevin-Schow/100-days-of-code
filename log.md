@@ -806,10 +806,16 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
-### Day 81: January 8, 2021
+### Day 82: January 8, 2021
 
 **Today's Progress**:  Website landing page, progress bars, html, css, javascript, Reading Algorithms, CS50 Webdev
 
 **Thoughts** 
+
+**Link(s) to work*
+
+### Day 83: January 11, 2021
+
+**Today's Progress**:  Responsive header, card flip animation, glassmorphism log in form, drawing app, html, css, javascript, CS50, freecodecamp
 
 **Link(s) to work*
