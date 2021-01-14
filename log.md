@@ -819,3 +819,10 @@ https://github.com/Kevin-Schow/doodle-jump
 **Today's Progress**:  Responsive header, card flip animation, glassmorphism log in form, drawing app, html, css, javascript, CS50, freecodecamp
 
 **Link(s) to work*
+
+
+### Day 84: January 13, 2021
+
+**Today's Progress**:  Career and college research, Machine Learning, Python, Pandas, Numpy, Scikit-learn, ML Algorithms
+
+**Link(s) to work*
