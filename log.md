@@ -826,3 +826,9 @@ https://github.com/Kevin-Schow/doodle-jump
 **Today's Progress**:  Career and college research, Machine Learning, Python, Pandas, Numpy, Scikit-learn, ML Algorithms
 
 **Link(s) to work*
+
+### Day 85: January 15, 2021
+
+**Today's Progress**: Arduino electronics and programming, C, C++, Robotics
+
+**Link(s) to work*
