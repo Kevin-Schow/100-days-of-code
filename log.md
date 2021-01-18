@@ -832,3 +832,9 @@ https://github.com/Kevin-Schow/doodle-jump
 **Today's Progress**: Arduino electronics and programming, C, C++, Robotics
 
 **Link(s) to work*
+
+### Day 86: January 17, 2021
+
+**Today's Progress**: Arduino, C++, Electronics, Robotics
+
+**Link(s) to work*
