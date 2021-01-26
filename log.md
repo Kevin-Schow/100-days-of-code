@@ -839,8 +839,14 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
-### Day 86: January 17, 2021
+### Day 86: January 19, 2021
 
 **Today's Progress**: Arduino, C++, Electronics, Robotics, Theremin, Keyboard
 
 **Link(s) to work*
+
+### Day 86: January 25, 2021
+
+**Today's Progress**: Arduino, C++, Electronics, Color Mixing Lamp, Love Meter, Servo Controller
+
+**Link(s) to work* https://github.com/Kevin-Schow/Arduino
