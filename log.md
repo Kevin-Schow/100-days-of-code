@@ -856,3 +856,9 @@ https://github.com/Kevin-Schow/doodle-jump
 **Today's Progress**: Arduino, C++, Electronics, Digital Hourglass, Motorized Pinwheel, Zoetrope, Magic 8-Ball, Reading Getting Started with Arduino
 
 **Link(s) to work* https://github.com/Kevin-Schow/Arduino
+
+### Day 90: January 31, 2021
+
+**Today's Progress**: Unity, C#, Inventory System, RPG
+
+**Link(s) to work*
