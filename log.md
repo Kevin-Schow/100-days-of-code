@@ -868,3 +868,24 @@ https://github.com/Kevin-Schow/doodle-jump
 **Today's Progress**: Unity, C#, Multiplayer Networking
 
 **Link(s) to work*
+
+### Day 92: February 6, 2021
+
+**Today's Progress**: Unity, C#, RPG, Movement, Camera
+
+**Link(s) to work*
+### Day 93: February 7, 2021
+
+**Today's Progress**:  Unity, C#, Combat, Camera
+
+**Link(s) to work*
+### Day 94: February 8, 2021
+
+**Today's Progress**: Unity, C#, Enemy AI, Combat
+
+**Link(s) to work*
+### Day 95: February 9, 2021
+
+**Today's Progress**: Unity, C#, Scene Management, Triggers
+
+**Link(s) to work*
