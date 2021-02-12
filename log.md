@@ -898,3 +898,9 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
+### Day 97: February 11, 2021
+
+**Today's Progress**: Unity, C#, RPG Mechanics, Weapon System, Progression
+
+**Link(s) to work*
+
