@@ -904,3 +904,10 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
+
+### Day 98: February 12, 2021
+
+**Today's Progress**: Unity, C#, RPG Mechanics, Level System, Stats, Exp, Bug fixes, Events, Particle Effects
+
+**Link(s) to work*
+
