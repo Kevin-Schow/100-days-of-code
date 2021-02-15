@@ -911,3 +911,11 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
+### Day 99: February 15, 2021
+
+**Today's Progress**: Unity, C#, RPG, Health bars, UI, text, fix save system
+
+**Link(s) to work*
+
+
+
