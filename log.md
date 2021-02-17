@@ -917,5 +917,11 @@ https://github.com/Kevin-Schow/doodle-jump
 
 **Link(s) to work*
 
+### Day 100: February 16, 2021
+
+**Today's Progress**: Unity, C#, RPG, Completed Part 1/3 Core Combat
+
+**Link(s) to work*
+
 
 
